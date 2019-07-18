@@ -22,6 +22,11 @@ import os
 
 # Demand for user to enter a
 # simple equation
+# We could've used this:
+# myNumOne = eval(input("Please enter first number: "))
+# myNumTwo = eval(input("Please enter second number: "))
+# myOperator = input("Please enter appropriate math operator: ")
+# but, this is not the point of this task
 myNumOne, myOperator, myNumTwo = input("Please enter simple equation: ").split()
 
 # Conversion of types
@@ -29,6 +34,7 @@ myNumOne = float(myNumOne)
 myNumTwo = float(myNumTwo)
 
 # A little bit of logic
+# Output the result
 if myOperator == "+":
     print("You have chosen a math operator of addition, here is the result: {}".format(float(myNumOne + myNumTwo)))
 elif myOperator == "-":
