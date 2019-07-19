@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="457f34fd-4bab-4ed0-abfd-565a3b715840" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/SimpleCalculator1_v_1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleCalculator1_v_1_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleApp4_v_1_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SimpleCalculator1_v_1_0.py">
+        <entry file="file://$PROJECT_DIR$/src/SimpleApp4_v_1_0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="600">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -45,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/SimpleApp2_v_1_0.py" />
         <option value="$PROJECT_DIR$/src/SimpleApp3_v_1_0.py" />
         <option value="$PROJECT_DIR$/src/SimpleCalculator1_v_1_0.py" />
+        <option value="$PROJECT_DIR$/src/SimpleApp4_v_1_0.py" />
       </list>
     </option>
   </component>
@@ -59,7 +61,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,6 +77,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SimpleCalculator1_v_1_0">
+  <component name="RunManager" selected="Python.SimpleApp4_v_1_0">
     <configuration name="SimpleApp2_v_1_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myFourthRepo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +130,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/SimpleApp3_v_1_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleApp4_v_1_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myFourthRepo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/SimpleApp4_v_1_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,6 +203,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SimpleApp4_v_1_0" />
         <item itemvalue="Python.SimpleCalculator1_v_1_0" />
         <item itemvalue="Python.SimpleApp2_v_1_0" />
         <item itemvalue="Python.SimpleApp3_v_1_0" />
@@ -209,7 +233,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,8 +271,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleCalculator1_v_1_0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="345">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleApp4_v_1_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
         </state>
       </provider>
     </entry>
