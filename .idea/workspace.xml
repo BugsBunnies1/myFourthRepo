@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="457f34fd-4bab-4ed0-abfd-565a3b715840" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SimpleApp6_v_1_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleGuessApp1_v_1_0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SimpleApp6_v_1_0.py">
+        <entry file="file://$PROJECT_DIR$/src/SimpleGuessApp1_v_1_0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state relative-caret-position="453">
+              <caret line="72" column="39" lean-forward="true" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+              <folding>
+                <element signature="e#985#994#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/SimpleApp5_v_1_0.py" />
         <option value="$PROJECT_DIR$/src/SimplePineTree1_v_1_0.py" />
         <option value="$PROJECT_DIR$/src/SimpleApp6_v_1_0.py" />
+        <option value="$PROJECT_DIR$/src/SimpleGuessApp1_v_1_0.py" />
       </list>
     </option>
   </component>
@@ -98,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SimpleApp6_v_1_0">
+  <component name="RunManager" selected="Python.SimpleGuessApp1_v_1_0">
     <configuration name="SimpleApp4_v_1_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myFourthRepo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SimpleCalculator1_v_1_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SimpleGuessApp1_v_1_0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myFourthRepo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +178,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/SimpleCalculator1_v_1_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/SimpleGuessApp1_v_1_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SimpleGuessApp1_v_1_0" />
         <item itemvalue="Python.SimpleApp6_v_1_0" />
         <item itemvalue="Python.SimplePineTree1_v_1_0" />
         <item itemvalue="Python.SimpleApp5_v_1_0" />
         <item itemvalue="Python.SimpleApp4_v_1_0" />
-        <item itemvalue="Python.SimpleCalculator1_v_1_0" />
       </list>
     </recent_temporary>
   </component>
@@ -305,8 +309,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleApp6_v_1_0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="90">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleGuessApp1_v_1_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="72" column="39" lean-forward="true" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+          <folding>
+            <element signature="e#985#994#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
